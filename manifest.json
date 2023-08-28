@@ -1,0 +1,22 @@
+{ 
+  "name": "Jogo da velha versão Progressive Web App", 
+  "short_name": "Jogo da velha", 
+  "icons": [ 
+    { 
+      "src": "jogo.png", 
+      "sizes": "192x192", 
+      "type": "image/png",
+      "purpose": "any maskable"
+    } ,
+    {
+        "src": "jogo2.png", 
+      "sizes": "512x512", 
+      "type": "image/png" 
+    }
+  ] ,
+  "lang": "pt-BR",
+  "start_url": "/index.html",   
+  "display": "standalone",
+  "background_color": "#6f737e",
+  "theme_color": "white" 
+}

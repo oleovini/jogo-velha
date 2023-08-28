@@ -1,0 +1,25 @@
+.container{
+    width: 45vh;
+    height: 45vh;
+    background:red;
+    margin: auto;
+}
+
+.col{
+    padding-top: 10vh;
+    justify-content: space-around;
+    display: flex;
+}
+input[type="checkbox"]{
+    width: 15vh;
+    cursor: pointer;
+}
+
+
+  span{
+    margin: 0px 15px;
+  }
+
+
+
+  
